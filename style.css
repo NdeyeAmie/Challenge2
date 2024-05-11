@@ -2,6 +2,7 @@ body{
     background-color: gray;
     color: white;
     font-size: 14px;
+    font-family: "Gill Sans", sans-serif;
 }
 section{
     display: flex;
@@ -37,8 +38,6 @@ section{
 h4{
     color: #bbe430;
 }
-
-
 
 a {
     text-decoration: none;
